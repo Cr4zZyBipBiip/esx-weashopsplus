@@ -12,7 +12,7 @@ Config.Zones = {
     GunShop = {
         legal = 0,
         Items = {
-            {name  = "WEAPON_PISTOL", price = 100, label = "Pistol Tiddies"}
+            {name  = "WEAPON_PISTOL", price = 100, label = "Pistol Tiddies"} --Add a comma and duplicate the line to repeat the process. If finished, Do not add a comma at the end.
         },
         Items1 = {
             {name  = "WEAPON_PISTOL", price = 100, label = "Pistol Tiddies2"}
