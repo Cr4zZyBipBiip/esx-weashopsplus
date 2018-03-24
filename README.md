@@ -1,4 +1,7 @@
 # esx_weashops+
+[REQUIREMENTS]
+
+esx_licenses: https://github.com/ESX-Org/esx_license
 
 [INSTALLATION]
 
