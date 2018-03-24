@@ -1,5 +1,4 @@
-# fxserver-esx_weashops
-FXServer ESX Weapon Shops
+# esx_weashops+
 
 [INSTALLATION]
 
