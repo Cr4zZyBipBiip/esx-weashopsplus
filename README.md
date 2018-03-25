@@ -1,4 +1,4 @@
-# esx_weashops+
+# esx_weashopsplus
 [REQUIREMENTS]
 
 esx_licenses: https://github.com/ESX-Org/esx_license
@@ -11,5 +11,5 @@ esx_licenses: https://github.com/ESX-Org/esx_license
 4) Add this in your server.cfg :
 
 ```
-start esx_weashops+
+start esx_weashopsplus
 ```
